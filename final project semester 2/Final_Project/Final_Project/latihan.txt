@@ -1,0 +1,23 @@
++==============+
+| LATIHAN SOAL |
++==============+\1. Hasil penjumlahan dari -3a –6b + 7 dan 13a – (-2b) + 4 adalah ....
+A. 16a -8b + 11
+B. 10a + 4b + 11
+C. 10a -4b + 11
+D. -16a -4b + 11\2. Hasil perkalian dari (4x - 5)(3x + 3) adalah ....
+A. 12x^2 -3x - 15
+B. 12x^2 +3x - 15
+C. 12x^2 -27x - 15
+D. 12x^2 + 27x + 15\3. Bentuk -6x^2 – x + 4y variabel-variabelnya adalah ....
+A. -6, -1 dan 4
+B. x^2 , x dan y
+C. x + y
+D. x^2 – 4y\4. Pada bentuk aljabar x^2 – 2x – 5 koefisien-koefisiennya adalah ....
+A. x^2
+B. -2
+C. - 2x dan - 5
+D. -2 dan -5\5. Diketahui bentuk aljabar 3a^2 -7a -9, suku yang merupakan konstanta saja adalah ....
+A. 3a^2
+B. a
+C. -7
+D. -9

@@ -1,0 +1,11 @@
++======================+
+|  Materi Pembelajaran |
++======================+\==============================
+|A. Pengertian Bentuk Aljabar|
+==============================
+1. x, 2y, x+3y , 3p+5q, a^2 + b + 3 disebut bentuk aljabar
+2. ax^2 + bx + c = 0    ; a,b,c,x dan 0 adalah lambang-lambang aljabar a dan b disebut koefisien ; c disebut konstanta ; x^2 dan x disebut variabel
+3. 2x^2			; 2 disebut koefisien dan x2 disebut variabel
+   5q 			; 5 disebut koefisien dan q disebut variabel
+4. 2x dan 3x merupakan dua suku sejenis
+   5 x^2 dan 7 x merupakan dua suku tidak sejenis \
